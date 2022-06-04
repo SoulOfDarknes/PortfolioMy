@@ -408,7 +408,7 @@ h6 {
 /* Rectangle */
 
 .rectangle-box {
-    background: url(img/rectangle.jpg) center no-repeat;
+    background: center no-repeat url(../img/rectangle.jpg);
 
 }
 
