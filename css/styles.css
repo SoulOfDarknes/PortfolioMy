@@ -152,7 +152,7 @@ h6 {
     /*#6A696B */
     padding-bottom: 120px;
     padding-top: 100px;
-    /* background: url(/img/backgroundfoto.jpg) right bottom no-repeat; */
+    /* background: url(img/backgroundfoto.jpg) right bottom no-repeat; */
     position: relative;
 }
 
@@ -408,7 +408,7 @@ h6 {
 /* Rectangle */
 
 .rectangle-box {
-    background: url(/img/rectangle.jpg) center no-repeat;
+    background: url(img/rectangle.jpg) center no-repeat;
 
 }
 
